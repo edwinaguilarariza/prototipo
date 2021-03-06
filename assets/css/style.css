@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    background-color: rgb(81, 209, 166);
+}
+
+.listaMenu{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.carouselStyle{
+    height: 600px;
+}
+
+.colorcito{
+    background-color: brown;
+}
